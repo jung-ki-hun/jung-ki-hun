@@ -16,12 +16,11 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - nodejs를 활용한  restAPI 구현가능
 - npm에서 모듈 설치 및 활용가능
 - fetch() / ajax 활용가능
-- jquery라이브러리를 활용하여 html 수정가능
+- jquery라이브러리를 활용가능
 - es6 /commonjs 문법 활용가능
 - es7의 async/await 사용가능
 - dom 활용 가능
 ### c언어/c++/c#
-- point 개념 잘 알고있음
 - thread 제작가능
 - TLS 개념 이해 
 - dll 제작가능
@@ -53,22 +52,22 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 
 # 대외활동 및 프로젝트 참여 이력
 ## 프로젝트 참여 이력
-### 1학년 
+### 2016년도 
 - 웹프로그래밍 수업 - asp.net 기반 웹서비스 개발
-### 2학년 
+### 2019년도 
 - 제어프로그래밍 수업 - 아두이노를 활용한 블루투스 2d프린터 
-### 3학년 
+### 2020년도 
 - 캡스톤 디자인 - 웹기반 IoT 공기청청기 시스템
-### 4학년 
+### 2021년도 
 - 졸업작품 - web기반 ERP시스템과 무인 iot 자동차
 - 인제간단하죠 교육기부 동아리 운영 시스템 개발
 - opencv를 활용한 번호판 인식 시스템
 ## 대외활동
-### 1학년 
+### 2016년도
 - 교내 학술동아리 맨토 맨티 활동
-### 3학년 
+### 2020년도 
 - 하반기 온라인 교육기부 활동
-### 4학년
+### 2021년도
 - 2021년 여름방학 교육기부 쏙쏙캠프
 - 제1회 동남권 바이오클러스터 AI교육
 - 비정형 의료/건강 데이터를 활용한 기계학습 이론과 실습
