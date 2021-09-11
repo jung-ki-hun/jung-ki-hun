@@ -44,7 +44,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 이슈관리 가능
 ### PuTTY 
 - ssh 연결후 사용가능
-- Rhinoceros 5
+### Rhinoceros 5
 - 간단한 3d 모델링 가능
 ### Adobe XD
 - ux/ui 간단하게 작성가능
