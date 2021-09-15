@@ -27,6 +27,8 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - TLS 개념 이해 
 - dll 제작가능
 - 아두이노 코딩 가능
+### 아두이노 
+- 블루투스 모듈 사용가능
 ### DB
 - mysql CRUD 가능
 - postgres CRUD 가능
