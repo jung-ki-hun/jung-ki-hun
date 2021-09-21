@@ -13,7 +13,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 # 보유 기술
 ## 사용가능 언어
 ### java 
-- 멀티 쓰래드 프로그램 제작가능
+- java swing을 활용한 gui 개발 가능
 ### JavaScript  
 - nodejs를 활용한  restAPI 구현가능
 - npm에서 모듈 설치 및 활용가능
