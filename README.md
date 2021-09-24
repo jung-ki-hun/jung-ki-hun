@@ -63,6 +63,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 자바프로그래밍2 수업 - 소캣통신 기반의 채팅프로그램 
 ### 2020년도 
 - 캡스톤 디자인 - 웹기반 IoT 공기청청기 시스템
+- 고급시스템프로그래밍 수업 - wpf를 활용한 카드 뒤집기 
 ### 2021년도 
 - 졸업작품 - web기반 ERP시스템과 무인 iot 자동차
 - 인제간단하죠 교육기부 동아리 운영 시스템 개발
