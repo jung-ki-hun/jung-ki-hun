@@ -59,7 +59,8 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 ### 2016년도 
 - 웹프로그래밍 수업 - asp.net 기반 웹서비스 개발
 ### 2019년도 
-- 제어프로그래밍 수업 - 아두이노를 활용한 블루투스 2d프린터 
+- 제어프로그래밍 수업 - 아두이노를 활용한 블루투스 2d프린터
+- 자바프로그래밍2 수업 - 소캣통신 기반의 채팅프로그램 
 ### 2020년도 
 - 캡스톤 디자인 - 웹기반 IoT 공기청청기 시스템
 ### 2021년도 
