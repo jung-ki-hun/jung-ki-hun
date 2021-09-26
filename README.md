@@ -13,6 +13,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 # 보유 기술
 ## 사용가능 언어
 ### java 
+- Multi Thread Programming
 - java swing을 활용한 gui 개발 가능
 ### JavaScript  
 - nodejs를 활용한  restAPI 구현가능
