@@ -76,6 +76,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 교내 학술동아리 맨토 맨티 활동
 ### 2020년도 
 - 하반기 온라인 교육기부 활동
+- 학술동아리 c언어 세미나
 ### 2021년도
 - 2021년 여름방학 교육기부 쏙쏙캠프
 - 제1회 동남권 바이오클러스터 AI교육
