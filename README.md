@@ -11,7 +11,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung-ki-hun)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung-ki-hun)
 
 
 
