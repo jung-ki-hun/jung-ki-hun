@@ -10,7 +10,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
  ![jung-ki-hun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jung-ki-hun&show_icons=true&theme=radical)
 
 
-![jung-ki-hun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jung-ki-hun)
+[![jung-ki-hun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jung-ki-hun)](https://github.com/jung-ki-hun/project_eco)
 
 
 
