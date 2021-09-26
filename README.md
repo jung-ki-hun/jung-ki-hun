@@ -11,9 +11,6 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung-ki-hun)
-
-
 
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMOnxX7wgzgvhmGNxbDYWTQ)](https://www.youtube.com/channel/UCMOnxX7wgzgvhmGNxbDYWTQ)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khkh0130@gmail.com)](mailto:khkh0130@gmail.com)
