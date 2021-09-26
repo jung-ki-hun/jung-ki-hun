@@ -10,6 +10,8 @@ I run a YouTube channel and if you have any questions for me, please contact me 
  ![jung-ki-hun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jung-ki-hun&show_icons=true&theme=radical)
 
 
+![jung-ki-hun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jung-ki-hun)
+
 
 
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMOnxX7wgzgvhmGNxbDYWTQ)](https://www.youtube.com/channel/UCMOnxX7wgzgvhmGNxbDYWTQ)
