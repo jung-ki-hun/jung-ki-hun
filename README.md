@@ -13,7 +13,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMOnxX7wgzgvhmGNxbDYWTQ)](https://www.youtube.com/channel/UCMOnxX7wgzgvhmGNxbDYWTQ)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khkh0130@gmail.com)](mailto:khkh0130@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/Discord-#5865F2?style=flat-square&logo=discord&logoColor=#5865F2&link=https://discord.gg/jjHX3XQDrW)](https://discord.gg/jjHX3XQDrW)
+[![Discord Badge](https://img.shields.io/endpoint?logo=discord?style=flat-square&logo=discord&logoColor=#5865F2&link=https://discord.gg/jjHX3XQDrW)](https://discord.gg/jjHX3XQDrW)
 
 
  
