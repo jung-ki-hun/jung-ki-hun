@@ -20,7 +20,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 ## 사용가능 언어
 ### java 
 - Multi Thread Programming
-- java swing을 활용한 gui 개발 가능
+- java swing,awt 활용한 gui 개발 가능
 ### JavaScript  
 - nodejs를 활용한  restAPI 구현가능
 - npm에서 모듈 설치 및 활용가능
@@ -83,6 +83,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 ### 2020년도 
 - 하반기 온라인 교육기부 활동
 - 학술동아리 c언어 세미나
+- it 정보공유용 디스코드 운영
 ### 2021년도
 - 2021년 여름방학 교육기부 쏙쏙캠프
 - 제1회 동남권 바이오클러스터 AI교육
