@@ -50,7 +50,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 ### Rhinoceros 5
 - 간단한 3d 모델링 가능
 ### Adobe XD
-- ux/ui 간단하게 기획 가능합니다.
+- ux/ui 간단하게 기획 가능
 ### linux
 - centos 설치 및 터미널 사용가능
 - PuTTY 연결후 사용
