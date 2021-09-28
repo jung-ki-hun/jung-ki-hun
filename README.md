@@ -47,13 +47,12 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 프로젝트 페이지를 통해 문서 작성가능
 - 이슈관리 가능
 - bitbucket 사용
-### Rhinoceros 5
-- 간단한 3d 모델링 가능
-### Adobe XD
-- ux/ui 간단하게 기획 가능
 ### linux
 - centos 설치 및 터미널 사용가능
 - PuTTY 연결후 사용
+### etc
+- Rhinoceros 5
+- Adobe XD
 
 
 # 대외활동 및 프로젝트 참여 이력
