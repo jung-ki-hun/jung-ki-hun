@@ -3,7 +3,7 @@
 
 Hello, I'm Jung Ki Hun and I live in Korea.
 
-유튜브 채널을 운영하고 있고 저에게 문의 사항이 있을경우 이메일로 연락주세 !!!
+유튜브 채널을 운영하고 있고 저에게 문의 사항이 있을경우 이메일로 연락주세요 !!!
 
 I run a YouTube channel and if you have any questions for me, please contact me by e-mail !!
 
@@ -35,32 +35,26 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - TLS 개념 이해 
 - dll 제작가능
 - 아두이노 코딩 가능
-### 아두이노 
-- 블루투스 모듈 사용가능
 ### DB
 - mysql CRUD 가능
-- postgres CRUD 가능
+- postgreSQL CRUD 가능
 - mongodb CRUD 가능
  
  
 ## 사용가능 도구
-### git 
-- 브랜치 생성가능
-- github, bitbucket 연동가능
-- pull request
 ### jira
 - 프로젝트 일정 작성 가능
 - 프로젝트 페이지를 통해 문서 작성가능
 - 이슈관리 가능
-### PuTTY 
-- ssh 연결후 사용가능
+- bitbucket 사용
 ### Rhinoceros 5
 - 간단한 3d 모델링 가능
 ### Adobe XD
-- ux/ui 간단하게 작성가능
+- ux/ui 간단하게 기획 가능합니다.
 ### linux
 - centos 설치 및 터미널 사용가능
-- ubuntu 설치 및 터미널 사용가능
+- PuTTY 연결후 사용
+
 
 # 대외활동 및 프로젝트 참여 이력
 ## 프로젝트 참여 이력
