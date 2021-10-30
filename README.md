@@ -45,11 +45,11 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 ### jira
 - 프로젝트 일정 작성 가능
 - 프로젝트 페이지를 통해 문서 작성가능
-- 이슈관리 가능
+- 이슈관리 
 - bitbucket 사용
 ### linux
 - centos 설치 및 터미널 사용가능
-- PuTTY 연결후 사용
+- PuTTY 연동
 ### etc
 - Rhinoceros 5
 - Adobe XD
