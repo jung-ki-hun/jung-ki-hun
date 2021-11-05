@@ -70,7 +70,8 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 졸업작품 - web기반 ERP시스템과 무인 iot 자동차
 - 인제간단하죠 교육기부 동아리 운영 시스템 개발
 - 뉴스 데이터 분석 프로그래밍
- 
+- node.js npm 모듈개발(any-function)
+
 ## 대외활동
 ### 2016년도
 - 교내 학술동아리 맨토 맨티 활동
