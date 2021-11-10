@@ -1,7 +1,7 @@
 # jungkihun
 안녕하세요 저는 대한민국에 살고 있는 백엔드 개발자 정기훈입니다.
 
-Hello, I'm Jung Ki Hun and I live in Korea.
+Hello, I'm Jung Ki Hun and I live in South Korea.
 
 유튜브 채널을 운영하고 있고 저에게 문의 사항이 있을경우 이메일로 연락주세요 !!!
 
