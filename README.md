@@ -5,7 +5,7 @@ Hello, I'm Jung Ki Hun and I live in South Korea.
 
 유튜브 채널을 운영하고 있고 저에게 문의 사항이 있을경우 이메일로 연락주세요 !!!
 
-I run a YouTube channel and if you have any questions for me, please contact me by e-mail !!
+I run a YouTube channel and if you have any questions for me, please contact me by e-mail !!!
 
  ![jung-ki-hun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jung-ki-hun&show_icons=true&theme=radical)
 
