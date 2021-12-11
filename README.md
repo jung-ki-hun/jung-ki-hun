@@ -87,7 +87,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 교내 학술동아리 git 세미나 진행
 - 경남ICT 제 1회 소프트웨어 경진대회 - 장려상
 - 2021 INJE 캡스톤디자인 경진대회 참여
-
+- 인프런 강의 업로드 작업 
 ## 자격증
 - 컴퓨터 활용능력 2급
 - itq(파워포인트 엑셀 아래한글)
