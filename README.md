@@ -56,6 +56,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - Adobe XD
 - 간단한 영상편집
 
+
 # 대외활동 및 프로젝트 참여 이력
 ## 프로젝트 참여 이력
 ### 2016년도 
