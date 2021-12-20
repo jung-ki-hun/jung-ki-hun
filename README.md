@@ -45,7 +45,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 ## 사용가능 도구
 ### devops
 #### 형상관리
-- git
+- git/github/gitlab
 - bitbucket
 - svn
 #### 협업도구
