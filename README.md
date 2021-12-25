@@ -14,9 +14,9 @@ I run a YouTube channel and if you have any questions for me, please contact me 
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMOnxX7wgzgvhmGNxbDYWTQ)](https://www.youtube.com/channel/UCMOnxX7wgzgvhmGNxbDYWTQ)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khkh0130@gmail.com)](mailto:khkh0130@gmail.com)
  <a href = "https://www.inflearn.com/course/%EC%97%94%ED%8A%B8%EB%A6%AC-%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8-%EC%A0%9C%EC%9E%91">
-<img src="./inflearn.png" width="30" height="30"></a>
+<img src="./inflearn.png" width="20" height="20"></a>
  <a href = "./Portfolio.pdf">
-<img src="./pdf.jpg" width="30" height="30"></a>
+<img src="./pdf.jpg" width="20" height="20"></a>
 
 
  
