@@ -45,18 +45,23 @@ I run a YouTube channel and if you have any questions for me, please contact me 
  
  
 ## 사용가능 도구
-### jira
-- 프로젝트 일정 작성 가능
-- 프로젝트 페이지를 통해 문서 작성가능
-- 이슈관리 
-- bitbucket 사용
+### devops
+#### 형상관리
+- git/github/gitlab
+- bitbucket
+- svn
+#### 협업도구
+- jira
+- trello
+- slack
 ### linux
-- centos 설치 및 터미널 사용가능
-- PuTTY 연동
+- centos
+- PuTTY 
 ### etc
 - Rhinoceros 5
 - Adobe XD
 - 간단한 영상편집
+
 
 # 대외활동 및 프로젝트 참여 이력
 ## 프로젝트 참여 이력
@@ -86,10 +91,13 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 2021년 여름방학 교육기부 쏙쏙캠프
 - 제1회 동남권 바이오클러스터 AI교육
 - 비정형 의료/건강 데이터를 활용한 기계학습 이론과 실습
-- 교내 학술동아리 git 세미나 진행
+- 학술동아리 git 세미나 진행
 - 경남ICT 제 1회 소프트웨어 경진대회 - 장려상
 - 2021 INJE 캡스톤디자인 경진대회 참여
-
+- 인프런 강의 업로드
+- 클래스101 원포인트 강좌 생성
+### 2022년도
+- 게임개발(injegamemaker)
 ## 자격증
 - 컴퓨터 활용능력 2급
 - itq(파워포인트 엑셀 아래한글)
