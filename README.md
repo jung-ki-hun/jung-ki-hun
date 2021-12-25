@@ -27,12 +27,9 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - java swing,awt 활용한 gui 개발 가능
 ### JavaScript  
 - nodejs를 활용한  restAPI 구현가능
-- npm에서 모듈 설치 및 활용가능
-- fetch() / ajax 활용가능
 - jquery라이브러리를 활용가능
 - es6 /commonjs 문법 활용가능
 - es7의 async/await 사용가능
-- dom 활용 가능
 ### c언어/c++/c#
 - thread 제작가능
 - TLS 개념 이해 
