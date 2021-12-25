@@ -18,7 +18,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
  <a href = "./Portfolio.pdf">
 <img src="./pdf.jpg" width="20" height="20"></a>
  <a href = "https://class101.net/one-point/products/jOsGOSAGK?utm_campaign=share_feature&utm_content=share_feature&utm_medium=referral&utm_source=link&utm_term=all">
-<img src="./class101.jpg" width="20" height="20"></a>
+<img src="./class101.jpg" width="20" height="40"></a>
 
 
  
