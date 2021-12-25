@@ -32,10 +32,11 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - jquery라이브러리를 활용가능
 - es6 /commonjs 문법 활용가능
 ### c언어/c++/c#
-- thread 제작가능
-- TLS 개념 이해 
-- dll 제작가능
-- 아두이노 코딩 가능
+- thread programming
+- stl
+- Produced dll
+- arduino
+- unity
 ### DB
 - mysql CRUD 가능
 - postgreSQL CRUD 가능
