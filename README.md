@@ -17,6 +17,8 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 <img src="./inflearn.png" width="20" height="20"></a>
  <a href = "./Portfolio.pdf">
 <img src="./pdf.jpg" width="20" height="20"></a>
+ <a href = "./Portfolio.pdf">
+<img src="./class101.jpg" width="20" height="20"></a>
 
 
  
