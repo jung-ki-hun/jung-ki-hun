@@ -80,6 +80,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - node.js npm 모듈개발(any-function)
 ### 2022년도
 - 게임개발(injegamemaker)
+
 ## 대외활동
 ### 2016년도
 - 교내 학술동아리 맨토 맨티 활동
