@@ -79,7 +79,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 뉴스 데이터 분석 프로그래밍
 - node.js npm 모듈개발(any-function)
 ### 2022년도
-- 게임개발(injegamemaker)
+- 게임개발(injegamemaker)참여
 
 ## 대외활동
 ### 2016년도
