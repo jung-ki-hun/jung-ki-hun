@@ -35,7 +35,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - es6 /commonjs 문법 활용가능
 ### c언어/c++/c#
 - thread programming
-- stl
+- STL
 - Produced dll
 - arduino
 - unity
