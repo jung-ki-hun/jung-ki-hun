@@ -3,6 +3,10 @@
 
 Hello, I'm Jung Ki Hun and I live in South Korea.
 
+프로젝트 하는 걸 좋아하고 Node.js에 관심이 많습니다.
+
+I like to do projects and I am very interested in Node.js.
+
 유튜브 채널을 운영하고 있고 저에게 문의 사항이 있을경우 이메일로 연락주세요 !!!
 
 I run a YouTube channel and if you have any questions for me, please contact me by e-mail !!!
@@ -90,6 +94,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 하반기 온라인 교육기부 활동
 - 학술동아리 c언어 세미나
 - it 정보공유용 디스코드 운영
+- 부산 지역 node.js 스터디 활동
 ### 2021년도
 - 2021년 여름방학 교육기부 쏙쏙캠프
 - 제1회 동남권 바이오클러스터 AI교육
