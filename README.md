@@ -26,13 +26,12 @@ I run a YouTube channel and if you have any questions for me, please contact me 
  <a href = "https://class101.net/one-point/products/jOsGOSAGK?utm_campaign=share_feature&utm_content=share_feature&utm_medium=referral&utm_source=link&utm_term=all">
 <img src="./class101.jpg" width="60" height="20"></a>
 
-## 교육사항
-인제대 / 컴퓨터공학과 학사
-* 2016.3 ~ 2022.02(6 years)
+# 교육사항
+인제대 / 컴퓨터공학과 학사 2016.3 ~ 2022.02(6 years)
 
-- 제1회 동남권 바이오클러스터 AI교육 수료
-- 비정형 의료/건강 데이터를 활용한 기계학습 이론과 실습 수료
-- 패스트 캠퍼스 알고리즘 강의 수료
+- 제1회 동남권 바이오클러스터 AI교육 - 수료
+- 비정형 의료/건강 데이터를 활용한 기계학습 이론과 실습 - 수료
+- 패스트 캠퍼스 알고리즘 강의 - 수료
  
 # 보유 기술
 ## 사용가능 언어
@@ -107,6 +106,6 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 인프런 강의 업로드
 - 클래스101 원포인트 강좌 생성
 
-## 자격증
+# 자격증
 - 컴퓨터 활용능력 2급
 - itq(파워포인트 엑셀 아래한글)
