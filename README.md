@@ -38,7 +38,6 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 ### java 
 - Multi Thread Programming
 - java swing,awt 활용한 gui 개발 가능
-- spring
 ### JavaScript  
 - nodejs를 활용한  restAPI 구현가능
 - jquery라이브러리를 활용가능
