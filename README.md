@@ -33,7 +33,8 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 비정형 의료/건강 데이터를 활용한 기계학습 이론과 실습 - 수료
 - 패스트 캠퍼스 알고리즘 강의 - 수료
 - 스마트공동체 토익스피킹 
- 
+- NHN 아카데미 웹서비스
+
 # 보유 기술
 ## 사용가능 언어
 ### java 
