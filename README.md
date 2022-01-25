@@ -48,11 +48,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - STL
 - arduino
 - unity
-### DB
-- mysql CRUD 가능
-- postgreSQL CRUD 가능
-- mongodb CRUD 가능
- 
+
  
 ## 사용가능 도구
 ### devops
