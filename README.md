@@ -105,6 +105,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 클래스101 원포인트 강좌 생성
 ### 2022년도
 - NHN 아카데미 웹서비스 
+
 # 자격증
 - 컴퓨터 활용능력 2급
 - itq(파워포인트 엑셀 아래한글)
