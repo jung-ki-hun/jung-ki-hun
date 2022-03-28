@@ -104,7 +104,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 인프런 강의 업로드
 - 클래스101 원포인트 강좌 생성
 ### 2022년도
-- NHN 아카데미 웹서비스 
+- nhnh 웹 서비스 개발 부트캠프
 
 # 자격증
 - 컴퓨터 활용능력 2급
