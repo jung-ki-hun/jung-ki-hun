@@ -45,7 +45,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - nodejs를 활용한  restAPI 구현가능
 - jquery라이브러리를 활용가능
 ### c언어/c++/c#
-- thread programming
+- <!--thread programming--> 
 - STL
 - arduino
 - unity
