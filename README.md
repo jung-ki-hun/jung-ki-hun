@@ -40,6 +40,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 <a><img src="./java-script-logo.png" width="40" height="40"></a>
  
 ## 사용가능 도구
+
 ### devops
 #### Tool
 - git/github/gitlab
@@ -49,12 +50,9 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - trello
 - slack
 ### linux
-- centos
-- PuTTY 
 ### etc
 - Rhinoceros 5
 - Adobe XD
-- 간단한 영상편집
 
 
 # 대외활동 및 프로젝트 참여 이력
