@@ -39,22 +39,14 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 <a><img src="./c-logo.png" width="40" height="40"></a>
 <a><img src="./java-script-logo.png" width="40" height="40"></a>
  
-## 사용가능 도구
+## Tool
 <a><img src="./github.png" width="40" height="40"></a>
 <a><img src="./bitbucket-sign.png" width="40" height="40"></a>
 <a><img src="./jira.png" width="40" height="40"></a>
 <a><img src="./linux.png" width="40" height="40"></a>
 <a><img src="./slack.png" width="40" height="40"></a>
 <a><img src="./trello.png" width="40" height="40"></a>
-### devops
-#### Tool
-- git/github/gitlab
-- bitbucket
-- svn
-- jira
-- trello
-- slack
-### linux
+
 ### etc
 - Rhinoceros 5
 - Adobe XD
