@@ -53,8 +53,8 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 
 
 # 대외활동 및 프로젝트 참여 이력
-## 프로젝트 참여 이력
-### 2016년도 
+## <a href= "프로젝트"> 프로젝트 참여 이력</a>
+<!-- ### 2016년도 
 - 웹프로그래밍 수업 - asp.net 기반 웹서비스 개발
 ### 2019년도 
 - 제어프로그래밍 수업 - 아두이노를 활용한 블루투스 2d프린터
@@ -68,7 +68,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 인제간단하죠 교육기부 동아리 운영 시스템 개발
 - 뉴스 데이터 분석 프로그래밍
 - node.js npm 모듈개발(any-function)
-### 2022년도
+### 2022년도 -->
 
 
 ## <a href = "./대외활동.md">대외활동</a>
