@@ -71,8 +71,8 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 ### 2022년도
 
 
-## 대외활동
-### 2016년도
+## <a href = "대외활동">대외활동</
+<!-- ### 2016년도
 - 교내 학술동아리 맨토 맨티 활동
 ### 2020년도 
 - 하반기 온라인 교육기부 활동
@@ -87,7 +87,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - 인프런 강의 업로드
 - 클래스101 원포인트 강좌 생성
 ### 2022년도
-- nhnh 웹 서비스 개발 부트캠프
+- nhnh 웹 서비스 개발 부트캠프 -->
 
 # 자격증
 - 컴퓨터 활용능력 2급
