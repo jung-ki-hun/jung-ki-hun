@@ -71,7 +71,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 ### 2022년도
 
 
-## <a href = "대외활동">대외활동</
+## <a href = "대외활동">대외활동</a>
 <!-- ### 2016년도
 - 교내 학술동아리 맨토 맨티 활동
 ### 2020년도 
