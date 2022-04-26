@@ -92,6 +92,6 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 ### 2022년도
 - nhnh 웹 서비스 개발 부트캠프 -->
 
-# 자격증
+<!-- # 자격증
 - 컴퓨터 활용능력 2급
-- itq(파워포인트 엑셀 아래한글)
+- itq(파워포인트 엑셀 아래한글) -->
