@@ -50,9 +50,9 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 <a><img src="./slack.png" width="40" height="40"></a>
 <a><img src="./trello.png" width="40" height="40"></a>
 
-### etc
+<!-- ### etc
 - Rhinoceros 5
-- Adobe XD
+- Adobe XD -->
 
 
 # 대외활동 및 프로젝트 참여 이력
