@@ -56,7 +56,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 
 
 # 대외활동 및 프로젝트 참여 이력
-## <a href= "프로젝트"> 프로젝트 참여 이력</a>
+## <a href= "./프로젝트.md"> 프로젝트 참여 이력</a>
 <!-- ### 2016년도 
 - 웹프로그래밍 수업 - asp.net 기반 웹서비스 개발
 ### 2019년도 
