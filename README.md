@@ -55,7 +55,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - Adobe XD -->
 
 # 경력사항
-포켓컴퍼니 2022.5 ~
+## 포켓컴퍼니 2022.5 ~
 
 # 대외활동 및 프로젝트 참여 이력
 ## <a href= "./프로젝트.md"> 프로젝트 참여 이력</a>
