@@ -31,7 +31,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 
 
 # 교육사항
-인제대 / 컴퓨터공학과 학사 2016.3 ~ 2022.02(6 years)
+인제대 / 컴퓨터공학과 공학사 2016.3 ~ 2022.02(6 years)
 
 - 제1회 동남권 바이오클러스터 AI교육 - 수료
 - 비정형 의료/건강 데이터를 활용한 기계학습 이론과 실습 - 수료
