@@ -55,8 +55,10 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 - Adobe XD -->
 
 # 경력사항
- 포켓컴퍼니 2022.5 ~
-
+ 포켓컴퍼니 
+<a href ="https://jung-ki-hun.github.io/">
+ <img src="./pocket.png" width="60" height="20"></a>
+ 2022.5 ~
 # 대외활동 및 프로젝트 참여 이력
 ## <a href= "./프로젝트.md"> 프로젝트 참여 이력</a>
 <!-- ### 2016년도 
