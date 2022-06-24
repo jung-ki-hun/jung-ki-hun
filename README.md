@@ -8,7 +8,7 @@ Hello, I'm Jung Ki Hun and I live in South Korea.
 
 I like to do projects and I am very interested in Node.js.
 
-또한 vue.js를 활용한 프론트엔드  기술에 관심이 많이 있습니다.
+또한 vue.js를 활용한 프론트엔드 기술에 관심이 많이 있습니다.
 
 I am also very interested in front-end technology using vue.js.
 
