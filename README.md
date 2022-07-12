@@ -64,6 +64,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
  <img src="./pocket.png"  height="20"></a><br>
  2022.5 ~
  - 라이더 어플 개발참여
+ - 커뮤니티 어플 개발참여
 # 대외활동 및 프로젝트 참여 이력
 ## <a href= "./프로젝트.md"> 프로젝트 참여 이력</a>
 <!-- ### 2016년도 
