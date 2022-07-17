@@ -63,7 +63,7 @@ I run a YouTube channel and if you have any questions for me, please contact me 
 <a href ="https://www.xn--9i1b674cwc38r6pa.com/main">
  <img src="./pocket.png"  height="20"></a><br>
  2022.5 ~
- - 풀스택 교육과정 참여
+ - 풀스택 웹 개발자 양성사업 
  <!-- - 라이더 어플 개발참여
  - 커뮤니티 어플 개발참여 -->
  
